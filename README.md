@@ -3,6 +3,8 @@
 ## Overview
 **HabitTracker-ios** is an intuitive and user-friendly iOS app designed to help users cultivate and monitor their habits. Whether you're looking to develop new routines, break old ones, or simply keep track of your daily activities, this app is the perfect tool for you. Built with SwiftUI, it offers a sleek, modern interface that is fully optimized for iOS devices.
 
+# Screenshots
+
 ## Features
 🚧 **COMING SOON: UNDER CONSTRUCTION** 🚧
 - **Custom Habit Tracking:** Add and track as many habits as you like—there’s no limit to how you can customize your tracking.
