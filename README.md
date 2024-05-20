@@ -1,10 +1,24 @@
 # HabitTracker-ios
 
+
+[![Contributors](https://img.shields.io/github/contributors/ailynux/HabitTracker-ios)](https://github.com/ailynux/HabitTracker-ios/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/ailynux/HabitTracker-ios)](https://github.com/ailynux/HabitTracker-ios/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/ailynux/HabitTracker-ios)](https://github.com/ailynux/HabitTracker-ios/issues)
+[![Stars](https://img.shields.io/github/stars/ailynux/HabitTracker-ios)](https://github.com/ailynux/HabitTracker-ios/stargazers)
+[![Forks](https://img.shields.io/github/forks/ailynux/HabitTracker-ios)](https://github.com/ailynux/HabitTracker-ios/network)
+
 ## Overview
 **HabitTracker-ios** is an intuitive and user-friendly iOS app designed to help users cultivate and monitor their habits. Whether you're looking to develop new routines, break old ones, or simply keep track of your daily activities, this app is the perfect tool for you. Built with SwiftUI, it offers a sleek, modern interface that is fully optimized for iOS devices.
 
 # Screenshots
---adding --
+
+<div style="display:flex; justify-content:center;">
+    <img src="https://github.com/ailynux/HabitTracker-ios/assets/95152597/535bdc7f-6290-4621-9f16-647333db17ef" alt="Screenshot 1" width="262">
+    <img src="https://github.com/ailynux/HabitTracker-ios/assets/95152597/42dc6bfa-a087-4072-960e-3f9d4daa8932" alt="Screenshot 2" width="263">
+    <img src="https://github.com/ailynux/HabitTracker-ios/assets/95152597/8e23c0a2-3301-4c48-9031-770c43dad8af" alt="Screenshot 3" width="265">
+    
+</div>
+
 ## Features
 🚧 **COMING SOON: UNDER CONSTRUCTION** 🚧
 - **Custom Habit Tracking:** Add and track as many habits as you like—there’s no limit to how you can customize your tracking.
